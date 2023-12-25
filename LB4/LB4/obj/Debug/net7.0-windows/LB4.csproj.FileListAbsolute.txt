@@ -1,0 +1,16 @@
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\bin\Debug\net7.0-windows\LB4.exe
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\bin\Debug\net7.0-windows\LB4.deps.json
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\bin\Debug\net7.0-windows\LB4.runtimeconfig.json
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\bin\Debug\net7.0-windows\LB4.dll
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\bin\Debug\net7.0-windows\LB4.pdb
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\LB4.Form1.resources
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\LB4.csproj.GenerateResource.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\LB4.GeneratedMSBuildEditorConfig.editorconfig
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\LB4.AssemblyInfoInputs.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\LB4.AssemblyInfo.cs
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\LB4.csproj.CoreCompileInputs.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\LB4.dll
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\refint\LB4.dll
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\LB4.pdb
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\LB4.genruntimeconfig.cache
+F:\Mag\Магомед_идёт_к_горе\ИБ\LB4\LB4\LB4\obj\Debug\net7.0-windows\ref\LB4.dll
